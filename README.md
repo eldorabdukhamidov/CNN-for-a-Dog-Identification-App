@@ -10,10 +10,10 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree!
 - **Pandas** - an ease-to-use python library for manipulating data structures and performing data analysis
 - **Jupyter Notebook** - tool that allow the creation of documents with live code
 - **Matplotlib** - a plotting library for the Python programming language and its numerical mathematics extension NumPy.
-- **cv2** - Computer vision and machine learning software library.
-- **tqdm** - a progress bar library with good support for nested loops and Jupyter/IPython notebooks.
-- **torch** - an open source machine learning library
-- **torchvision** - a package consisting of popular datasets, model architectures, and common image transformations for computer vision.
+- **CV2** - Computer vision and machine learning software library.
+- **TQDM** - a progress bar library with good support for nested loops and Jupyter/IPython notebooks.
+- **Torch** - an open source machine learning library
+- **Torchvision** - a package consisting of popular datasets, model architectures, and common image transformations for computer vision.
 - **PIL** - a free library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats.
 
 ## Project Steps
@@ -27,9 +27,9 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree!
 - Test Your Algorithm
 
 ## Download Datasets
-Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in this project's home directory, at the location */dog_images*.
+Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in this project's home directory, at the location ```/dog_images```.
 
-Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip). Unzip the folder and place it in the home directory, at location */lfw*.
+Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip). Unzip the folder and place it in the home directory, at location ```/lfw```.
 
 ## Instruction
 
