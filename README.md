@@ -12,7 +12,7 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree!
 - **Matplotlib** - a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 - **CV2** - Computer vision and machine learning software library.
 - **TQDM** - a progress bar library with good support for nested loops and Jupyter/IPython notebooks.
-- **Torch** - an open source machine learning library
+- **PyTorch** - an open source machine learning library
 - **Torchvision** - a package consisting of popular datasets, model architectures, and common image transformations for computer vision.
 - **PIL** - a free library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats.
 
