@@ -39,15 +39,15 @@ Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog
 4. Run the code below to create and activate new environment
 
 ```
-conda create --name bike_sharing_proj_env
+conda create --name dog_iden_proj_env
 ```
  - Mac/Linux: 
 ```
-source activate bike_sharing_proj_env 
+source activate dog_iden_proj_env 
 ```
  - Windows:
 ```
-activate bike_sharing_proj_env
+activate dog_iden_proj_env
 ```
 Install required libraries. For example, 
 ```
