@@ -2,15 +2,15 @@
 
 ## CNN for a Dog Identification App
 
-Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, your algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you can learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, the algorithm identifies an estimate of the canine’s breed. If supplied an image of a human, the code identifies the resembling dog breed.
 
 ## Libraries utilized
 
 - **NumPy** - a fundamental package for scientific computing in python
 - **Pandas** - an ease-to-use python library for manipulating data structures and performing data analysis
-- **Jupyter Notebook** - tool that allow the creation of documents with live code
+- **Jupyter Notebook** - a tool that allow the creation of documents with live code
 - **Matplotlib** - a plotting library for the Python programming language and its numerical mathematics extension NumPy.
-- **CV2** - Computer vision and machine learning software library.
+- **CV2** - computer vision and machine learning software library.
 - **TQDM** - a progress bar library with good support for nested loops and Jupyter/IPython notebooks.
 - **PyTorch** - an open source machine learning library
 - **Torchvision** - a package consisting of popular datasets, model architectures, and common image transformations for computer vision.
@@ -23,8 +23,8 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree!
 - Detect Dogs
 - Create a CNN to Classify Dog Breeds (from Scratch)
 - Create a CNN to Classify Dog Breeds (using Transfer Learning)
-- Write your Algorithm
-- Test Your Algorithm
+- Write the Algorithm
+- Test the Algorithm
 
 ## Download Datasets
 Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in this project's home directory, at the location ```/dog_images```.
